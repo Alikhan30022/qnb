@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
-import { FaDownload, FaShieldAlt, FaEnvelope, FaPhone, FaMapMarkerAlt, FaFacebook, FaTwitter, FaInstagram, FaLinkedin, FaBars, FaTimes, FaChevronDown, FaCreditCard, FaExchangeAlt, FaMobileAlt, FaBell, FaQrcode } from 'react-icons/fa';
+import { FaDownload, FaEnvelope, FaPhone, FaMapMarkerAlt, FaFacebook, FaTwitter, FaInstagram, FaLinkedin, FaBars, FaTimes, FaChevronDown, FaCreditCard, FaExchangeAlt, FaMobileAlt, FaBell, FaQrcode } from 'react-icons/fa';
 
 function App() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
